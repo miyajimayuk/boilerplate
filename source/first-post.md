@@ -9,7 +9,9 @@ excerpt: ためし記事
 ```javascript
 for(let i=0; i<5; i++) {
 
-console.log(i);
+  console.log(i);
+
+}
 ```
 
 ```kotlin
